@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.exemplo{
+    background-color: #780000;
+    width: 300px;
+    margin: 10px;
+    justify-content: center;
+}
+.images img{
+    width: 250px;
+    
+}
+.images{
+    padding: 20px;
+}
+
+.nome{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #ccc5b9;
+}
